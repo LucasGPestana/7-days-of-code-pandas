@@ -1,0 +1,5 @@
+# Checkpoints do servidor do jupyter notebook
+**/.ipynb_checkpoints
+
+# Os arquivos contendo os dados de análise
+databases/*
